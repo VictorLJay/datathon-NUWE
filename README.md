@@ -1,2 +1,2 @@
-# datathon-NUWE
+# Bitcoin Price Prediction
 Bitcoin price prediction
